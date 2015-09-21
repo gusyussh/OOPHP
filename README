@@ -1,3 +1,14 @@
-THis is the README for  the OOPHP/kmom01 project SWAN
+SWAN - base
+==================
 
-2015 SEP 21
+A boilerpate for smaller website or webbapplications using PHP
+
+Built by Shireen Yusur following the course structure of DV1485 -OOPHP by Mikael Roos
+
+License
+--------------
+This software is free software and carries a MIT license.
+
+--------------
+
+Copyright (c) 2015 Shireen Yusur
