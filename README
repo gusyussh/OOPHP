@@ -1,9 +1,12 @@
-SWAN - base
+SY - base
 ==================
 
-A boilerpate for smaller website or webbapplications using PHP
+A boilerpate for smaller website or web application that is using object oriented PHP
 
-Built by Shireen Yusur following the course structure of DV1485 -OOPHP by Mikael Roos
+designed and built by Shireen Yusur according to the course structure of 
+
+DV1485 -OOPHP by Mikael Roos.
+
 
 License
 --------------
@@ -11,4 +14,4 @@ This software is free software and carries a MIT license.
 
 --------------
 
-Copyright (c) 2015 Shireen Yusur
+Copyright (c) 2016 Shireen Yusur
